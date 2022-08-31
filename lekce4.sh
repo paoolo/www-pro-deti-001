@@ -1,1 +1,3 @@
-git checkout -b lekce4
+git checkout lekce4
+git fetch
+git pull
