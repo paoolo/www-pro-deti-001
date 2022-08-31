@@ -1,3 +1,4 @@
-git checkout lekce7
+git stash
+out lekce7
 git fetch
 git pull
