@@ -1,1 +1,1 @@
-git checkout -b lekce5
+git checkout lekce5
