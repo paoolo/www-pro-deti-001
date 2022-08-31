@@ -16,3 +16,5 @@ Postup:
 - stažení souboru nvm a instalace (Na Windows 10 a vyšší: pravé tlačítko > Spustit jako správce)
 - instalace Node JS 12 pomocí příkazu: ``nvm install v12.22.12``
  
+ **Tocal commander**
+ https://www.ghisler.com/download.htm
