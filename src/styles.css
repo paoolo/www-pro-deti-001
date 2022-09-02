@@ -1,0 +1,47 @@
+/*
+Try changing this code while viewing the frontend in the browser to see it live reload.
+See README.md for details on running this code.
+*/
+
+:root {
+    --bgcolor: rgb(235, 159, 250);
+  }
+
+body {
+    color: rgb(97, 28, 28);
+    background-color: var(--bgcolor);
+}
+
+#trojuhelnik {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 200px 100px 0 100px;
+    border-color: #5f66ed transparent transparent transparent;
+ }
+
+ #obdelnik
+{
+   width: 200px;
+   height: 100px;
+   background: #fffefe;
+}
+
+#mezera
+{
+   width: 200px;
+   height: 10px;
+   background: var(--bgcolor);
+}
+
+#rovnobeznik
+{
+    width: 200px;
+    height: 100px;
+    background: #fd0000;
+    -webkit-transform: skew(-20deg);
+    -moz-transform: skew(-20deg);
+    -ms-transform: skew(-20deg);
+    -o-transform: skew(-20deg);
+    transform: skew(-20deg);
+}

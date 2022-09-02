@@ -536,7 +536,7 @@ function hmrAcceptRun(bundle, id) {
 // Try changing this code while viewing the frontend in the browser to see it live reload.
 // See README.md for details on running this code.
 //
-console.log("Hello world from Parcel!");
+console.log("Geometrick\xe9 tvary v barv\xe1ch Cesk\xe9 Republiky");
 
 },{}]},["ShInH","8lqZg"], "8lqZg", "parcelRequire45ef")
 
