@@ -4,6 +4,10 @@
 https://code.visualstudio.com/download
 + nainstalovat Czech language pack
 
+**XCode **
+- některé programy vyžadují mít tyto programátorské knihovny, je třeba je nainstalovat
+``xcode-select --install``
+
 **NVM**
 - pro instalaci NVM použijete Brew (pokud ještě nemáme Brew, tak ho nainstalujete z terminálu pomocí ``/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`` )
 - Instalace nástroje Node version manager (NVM) ``brew install nvm``
