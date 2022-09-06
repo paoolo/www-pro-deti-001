@@ -1,1 +1,1 @@
-{"mappings":"AAAA","sources":["src/styles.css"],"sourcesContent":["body {\r\n    color: rgb(171, 8, 8);\r\n    background-color: #e16710;\r\n}\r\n"],"names":[],"version":3,"file":"index.4d663569.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA","sources":["src/styles.css"],"sourcesContent":["body {\n    color: rgb(171, 8, 8);\n    background-color: #e16710;\n}\n"],"names":[],"version":3,"file":"index.4d663569.css.map","sourceRoot":"/__parcel_source_root/"}
