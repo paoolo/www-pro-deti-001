@@ -6,26 +6,37 @@ https://code.visualstudio.com/download
 
 **XCode **
 - některé programy vyžadují mít tyto programátorské knihovny, je třeba je nainstalovat
+
 ``xcode-select --install``
 
 **NVM**
-- pro instalaci NVM použijete Brew (pokud ještě nemáme Brew, tak ho nainstalujete z terminálu pomocí ``/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`` )
-- Instalace nástroje Node version manager (NVM) ``brew install nvm``
-- Instalace Node JS 14 pomocí příkazu: ``nvm install v14.20.0``
+- pro instalaci NVM použijete Brew (pokud ještě nemáme Brew, tak ho nainstalujete z terminálu pomocí 
+
+``/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`` )
+- Instalace nástroje Node version manager (NVM) 
+
+``brew install nvm``
+- Instalace Node JS 14 pomocí příkazu: 
+
+``nvm install v14.20.0``
  
 **MU commander**
 https://www.mucommander.com/#download
 
 **GIT**
+
 ``brew install git``
 
 **Midnight Commander**
+
 ``brew install mc``
 
 **iTerm2**
+
 ``brew install --cask iterm2``
 
 **oh-my-zsh**
+
 ``sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"``
 
 **Tvůj účet na Github**
@@ -39,13 +50,17 @@ A ted už můžeš z Githubu stáhnout lekce, které jsme pro tebe připravili. 
 ``git clone https://github.com/paoolo/www-pro-deti-001`` 
 
 Nyní se můžeš přepnout na první lekci. Stačí spustit příkaz:
+
 ``./lekce1.sh`` 
 
 Nainstalovat tvůj první program pomocí příkazu:
+
 ``npm install``
 
 A následně spustit tvůj první program pomocí příkazu:
+
 ``npm start``
 
 Je to webová stránka a v prohlížeči ji najdeš na adrese:
+
 ``http://localhost:1234``
