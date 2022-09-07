@@ -15,8 +15,11 @@ https://code.visualstudio.com/download
 ``/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`` )
 - Instalace nástroje Node version manager (NVM) 
 
-``brew install nvm``
-- Instalace Node JS 14 pomocí příkazu: 
+``brew install nvm`` 
+
+a dále je nutné nvm nakonfigurovat ~/.bash_profile tak, jak je uvedeno zde: https://tecadmin.net/install-nvm-macos-with-homebrew/
+
+- Pokud se Vám úspěšně povedlo předešlý krok, tak je již možná instalace Node JS 14 pomocí příkazu: 
 
 ``nvm install v14.20.0``
  
