@@ -1,4 +1,4 @@
-# Počáteční instalace na Windows
+# Počáteční instalace
 
 **VS Code**
 https://code.visualstudio.com/download
