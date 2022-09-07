@@ -49,6 +49,10 @@ Tedy otevři si iTerm2.
 A ted už můžeš z Githubu stáhnout lekce, které jsme pro tebe připravili. Lekce obsahují spoustu programátorského kódu, takže Github je pro to skvělé místo. Spust příkaz:
 ``git clone https://github.com/paoolo/www-pro-deti-001`` 
 
+Přepni se do adresáře www-pro-deti-001:
+
+``cd www-pro-deti-001`` 
+
 Nyní se můžeš přepnout na první lekci. Stačí spustit příkaz:
 
 ``./lekce1.sh`` 
