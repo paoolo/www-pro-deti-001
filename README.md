@@ -34,20 +34,19 @@ https://www.mucommander.com/#download
 
 ``brew install mc``
 
-**iTerm2**
-
-``brew install --cask iterm2``
-
 **oh-my-zsh**
 
 ``sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"``
+Po instalaci oh my zsh je třeba přidat do jeho konfigurace odkaz na nastavení existujícím shell.
+Tedy do souboru ~/.zshrc přidat řádek
+``source ~/.bash_profile``
 
 **Tvůj účet na Github**
 Vývojáři si sdílí svůj kód nejčastěji ve speciálním uložišti zdrojových kódů, jedním z nich je služba github.com. Bude potřeba, aby jsi měl svůj účet, na kterém se budeš moci pochlubit s tím, co vytvoříš. A je super, že je zdarma. Učet si vytvoříš na adrese:
 github.com/signup Potřebuješ k tomu znát svůj email a vymyslet si heslo, k tomuto účtu svoji programátorskou přezdívku.
 
 **Stažení lekcí na tvůj počítač**
-Tedy otevři si iTerm2.
+Tedy otevři si Terminál nebo iTerm2.
 
 A ted už můžeš z Githubu stáhnout lekce, které jsme pro tebe připravili. Lekce obsahují spoustu programátorského kódu, takže Github je pro to skvělé místo. Spust příkaz:
 ``git clone https://github.com/paoolo/www-pro-deti-001`` 
