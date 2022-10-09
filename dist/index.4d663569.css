@@ -1,37 +1,17 @@
-:root {
-  --bgcolor: #eb9ffa;
-}
-
 body {
-  color: #611c1c;
-  background-color: var(--bgcolor);
+  color: #ab0808;
+  background-color: #fff;
 }
 
-#trojuhelnik {
-  width: 0;
-  height: 0;
-  border: 100px solid #0000;
-  border-top: 200px solid #5f66ed;
-  border-bottom-width: 0;
+img {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
-#obdelnik {
-  width: 200px;
-  height: 100px;
-  background: #fffefe;
-}
-
-#mezera {
-  width: 200px;
-  height: 10px;
-  background: var(--bgcolor);
-}
-
-#rovnobeznik {
-  width: 200px;
-  height: 100px;
-  background: #fd0000;
-  transform: skew(-20deg);
+p {
+  text-align: center;
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */
