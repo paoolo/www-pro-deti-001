@@ -1,3 +1,7 @@
 # LEKCE2
 
-[Clánek o geometrických tvarech](https://www.itnetwork.cz/html-css/css3/zdrojakoviste/tutorial-zakladni-tvary-v-css-3)
+✅ [Javascriptové proměnné](https://www.w3schools.com/js/js_variables.asp)
+
+✅ [Javascriptové funkce](https://www.w3schools.com/js/js_function_definition.asp)
+
+✅ [Funkce pro práci s HTML - getElementById] (https://www.w3schools.com/jsref/met_document_getelementbyid.asp)
