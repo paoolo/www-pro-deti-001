@@ -1,6 +1,17 @@
 body {
   color: #ab0808;
-  background-color: #e16710;
+  background-color: #fff;
+}
+
+.pic1 {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+p {
+  text-align: center;
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */

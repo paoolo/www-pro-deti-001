@@ -1,4 +1,15 @@
 body {
     color: rgb(171, 8, 8);
-    background-color: #e16710;
+    background-color: #ffffff;
+}
+
+.pic1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+p {
+    text-align: center;
 }

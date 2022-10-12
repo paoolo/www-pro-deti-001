@@ -142,14 +142,14 @@
       this[globalName] = mainExports;
     }
   }
-})({"ShInH":[function(require,module,exports) {
+})({"lX4BT":[function(require,module,exports) {
 "use strict";
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "d6ea1d42532a7575";
-module.bundle.HMR_BUNDLE_ID = "890e741a975ef6c8";
+module.bundle.HMR_BUNDLE_ID = "7055c94b59712999";
 /* global HMR_HOST, HMR_PORT, HMR_ENV_HASH, HMR_SECURE, chrome, browser, globalThis, __parcel__import__, __parcel__importScripts__, ServiceWorkerGlobalScope */ /*::
 import type {
   HMRAsset,
@@ -531,20 +531,8 @@ function hmrAcceptRun(bundle, id) {
     acceptedAssets[id] = true;
 }
 
-},{}],"8lqZg":[function(require,module,exports) {
-//
-// Try changing this code while viewing the frontend in the browser to see it live reload.
-// See README.md for details on running this code.
-//
-console.log("Hello world from Parcel!");
-function hraj() {
-    alert("ted budu hrat");
-}
-function soundPlay(which) {
-    var audio = document.getElementById(which);
-    audio.play();
-}
+},{}],"4M6V8":[function(require,module,exports) {
 
-},{}]},["ShInH","8lqZg"], "8lqZg", "parcelRequire45ef")
+},{}]},["lX4BT","4M6V8"], "4M6V8", "parcelRequire45ef")
 
-//# sourceMappingURL=index.975ef6c8.js.map
+//# sourceMappingURL=www-pro-deti-001.59712999.js.map
