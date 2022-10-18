@@ -23,7 +23,7 @@
 **Když se klikne na obrázek, otevře se stránka**
 ```htm
 <a href="https://www.rtvs.sk">
-    <img src="dog.gif">
+    <img src="beep.jpeg">
 </a>
 ```
 
