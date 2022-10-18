@@ -71,6 +71,21 @@ img {
 }
 ```
 
+**Velikost rámečku obrázku**
+```css
+img {
+  border-width: 5x;
+}
+```
+
+**Tečkovaný rámečem obrázku**
+Možnosti: dotted solid double dashed
+```css
+img {
+  border-style: dotted;
+}
+```
+
 **Barva rámečku obrázku**
 ```css
 img {
