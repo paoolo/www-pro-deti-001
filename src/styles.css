@@ -3,7 +3,7 @@ body {
     background-color: #ffffff;
 }
 
-.picture1 {
+#picture1 {
     display: block;
     margin-left: auto;
     margin-right: auto;

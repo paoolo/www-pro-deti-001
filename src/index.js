@@ -1,5 +1,1 @@
-function beep()
-{
-    var audio = document.getElementById('beep');
-    audio.play();
-}
+// Zde je možné psát Javascript funkce
