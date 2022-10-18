@@ -1,11 +1,11 @@
 .row {
     display: flex;
-  }
+}
   
-  .column {
+.column {
     flex: 50%;
-  }
+}
 
-  img {
+img {
     width: 300px;
-  }
+}
