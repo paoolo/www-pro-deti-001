@@ -3,7 +3,8 @@
 // See README.md for details on running this code.
 //
 
-let ball = document.getElementById("ball");
+var ball = document.getElementById('ball');
+
 
 document.addEventListener('keydown', function (e) {
     if (e.which === 37) {
@@ -11,13 +12,16 @@ document.addEventListener('keydown', function (e) {
     }
 })
 
-function moveBallLeft() {
+function moveBallLeft() {  
     var leftNumbers = ball.style.left.replace('px', '')
+    
     var left = parseInt(leftNumbers, 10)
-
+    console.log(ball.style.marginLeft);
+    console.log('left pred' + ball.style.left);
     if (left > 0) {
         ball.style.left = `${left - 1}px`
     }
+    console.log('left po' + ball.style.left);
 }
 
 

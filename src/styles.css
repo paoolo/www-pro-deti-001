@@ -1,17 +1,7 @@
-.row {
-    display: flex;
-}
-  
-.column {
-    flex: 50%;
-}
-
-img {
-    width: 300px;
-}
-
 body {
     background-color: #ffffff;
+    display: flex;
+    align-items: center;
 }
 
 #ball {
