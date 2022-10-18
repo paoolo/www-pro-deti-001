@@ -9,3 +9,15 @@
 img {
     width: 300px;
 }
+
+body {
+    background-color: #ffffff;
+}
+
+#ball {
+    height: 12rem;
+    width: 12rem;
+    background-color: rgb(146, 200, 8);
+    border-radius: 50%;
+    margin-top: 20rem;
+  }
