@@ -50,7 +50,7 @@ body {
 }
 ```
 
-**Text v elementu <p> se zarovná na střed**
+**Text v elementu \<p\> se zarovná na střed**
 ```css
 p {
   text-align: center;
