@@ -74,7 +74,7 @@ img {
 **Velikost rámečku obrázku**
 ```css
 img {
-  border-width: 5x;
+  border-width: 5px;
 }
 ```
 
