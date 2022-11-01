@@ -1,13 +1,21 @@
 body {
     background-color: #ffffff;
+}
+  
+.row {
     display: flex;
-    align-items: center;
+    padding: 5px;
+}
+  
+.column {
+    flex: 50%;
+    padding: 5px;
 }
 
-#ball {
-    height: 12rem;
-    width: 12rem;
-    background-color: rgb(146, 200, 8);
-    border-radius: 50%;
-    margin-top: 20rem;
-  }
+#column1 {
+    background-color:#aaa;
+}
+
+#column2 {
+    background-color:#bbb;;
+}
