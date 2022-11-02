@@ -2,17 +2,33 @@
 
 <head>
     <link rel="stylesheet" href="styles.css" />
-    <script type="text/javascript" src="index.js"></script>
 </head>
 
 <body>
-    <div class="row">
-        <div class="column">
-            <img src="one.jpeg">
-        </div>
-        <div class="column">
-            <img src="two.jpeg">
-        </div>
+    <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"
+    integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  ></script>
+  <script type="module" src="index.js"></script>
+    
+  <div class="flexbox">
+    <div class="nadpis">
+        <h2>Těším se na to až bude: </h2>
     </div>
+    <div class="odpocitavadlo">
+      <div class="date-countdown-container">	
+        <h2 id="day">0</h2>
+        <p>:</p>
+        <h2 id="hour">0</h2>
+        <p>:</p>
+        <h2 id="minute">0</h2>
+        <p>:</p>
+        <h2 id="second">0</h2>
+      </div>
+    </div>
+  </div>
+
 </body>
 </html>
