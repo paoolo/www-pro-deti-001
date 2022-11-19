@@ -1,4 +1,5 @@
 # LEKCE4
+Dnešní úkol, aplikace hodiny: https://codepen.io/paoolo/pen/mdKpyjp
 
 # HTML
 

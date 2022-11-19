@@ -11,8 +11,9 @@ let minuteField = document.getElementById('minute');
 let secondField = document.getElementById('second');
 
 let interval;
-const eventDay = moment("2022-12-24");
-  
+
+const eventDay = new Date(2022, 11, 24).getTime();
+
 // Convert to milisecond
 const second = 1000;
 const minute = second * 60;
@@ -20,9 +21,8 @@ const hour = minute * 60;
 const day = hour * 24;
   
 const countDownFn = () => {
-    const today = moment();
-    const timeSpan = eventDay.diff(today);
-  
+    const today = new Date().getTime();
+    const timeSpan = eventDay - today;
     if (timeSpan <= -today) {
         console.log("Unfortunately we have past the event day");
         clearInterval(interval);
