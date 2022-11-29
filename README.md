@@ -138,4 +138,7 @@ firebase deploy
 ```
 
 **Odkazy**
+
 ✅ [Dvousloupcový layout](https://www.w3schools.com/howto/howto_css_two_columns.asp)
+
+✅ [Generátor QR kódu](https://www.the-qrcode-generator.com/)
