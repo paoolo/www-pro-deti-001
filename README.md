@@ -120,5 +120,22 @@ img {
 }
 ```
 
+# Vytvoření nového projektu na Firebase
+- Vytvořit Firebase projekt v Firebase web konzoli: https://console.firebase.google.com/u/0/
+- Iniciovat projekt z konzole pomocí příkazu:
+```
+firebase init hosting
+```
+
+# Build a nahrání projektu na Firebase
+- Vytvoření sestavení, které lze publikovat na internet:
+```
+npm run build
+```
+- Publikování na internet:
+```
+firebase deploy
+```
+
 **Odkazy**
 ✅ [Dvousloupcový layout](https://www.w3schools.com/howto/howto_css_two_columns.asp)
